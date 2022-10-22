@@ -204,9 +204,9 @@
     
     
     <entry>
-      <title>tags</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
+      <title>link</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -215,9 +215,20 @@
     
     
     <entry>
-      <title>link</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
+      <title>life</title>
+      <link href="/life/index.html"/>
+      <url>/life/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>tags</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -237,22 +248,11 @@
     
     
     <entry>
-      <title>life</title>
-      <link href="/life/index.html"/>
-      <url>/life/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>打卡</title>
       <link href="/life/%E6%89%93%E5%8D%A1/2022.10.html"/>
       <url>/life/%E6%89%93%E5%8D%A1/2022.10.html</url>
       
-        <content type="html"><![CDATA[<h1>2022.10.12</h1><ol><li><mark>核酸</li><li><mark>英语单词 50 new &amp;&amp; xx old</li><li>线性代数</li><li>微积分</li><li><mark>阅读白皮书</li><li>专业作业 04 end</li><li><mark>心理课</li><li>（数据结构与算法）</li></ol><h1>2022.10.13</h1><ol><li><mark>核酸</li><li><mark>核酸志愿者</li><li><mark>英语单词 50 new &amp;&amp; xx old</li><li><mark>写完白皮书</li><li>线性代数</li><li>微积分</li><li><mark>心理课</li></ol><h1>2022.10.14</h1><ol><li><mark>核酸</li><li><mark>核酸志愿者</li><li>英语单词 50 new &amp;&amp; xx old</li><li>线性代数 [4]</li><li>微积分 [4]</li><li><mark>心理课</li><li><mark>书信志愿</li></ol><h1>2022.10.15</h1><ol><li><mark>核酸</li><li><mark>英语单词 50 new &amp;&amp; xx old</li><li><mark>线性代数 [4]</li><li>微积分 [4]</li><li><mark>心理课</li></ol><h1>2022.10.15</h1><ol><li><mark>核酸</li><li><mark>英语单词 50 new &amp;&amp; xx old</li><li><mark>线性代数 [4]</li><li>微积分 [4]</li><li><mark>心理课</li></ol><h1>2022.10.16</h1><ol><li><mark>核酸</li><li><mark>英语单词 50 new &amp;&amp; xx old</li><li><mark>线性代数 [4]</li><li>微积分 [4]</li><li>心理课</li></ol><h1>2022.10.17</h1><ol><li><mark>核酸</li><li><mark>英语单词 50 new &amp;&amp; xx old</li><li><mark>线性代数 [4]</li><li>微积分 [4]</li><li>心理课</li><li><mark>【程序设计（指针）】</li></ol><h1>2022.10.18</h1><ol><li><mark>核酸</li><li>英语单词 50 new &amp;&amp; xx old</li><li>线性代数 [4]</li><li><mark>微积分 [4]</li><li>心理课</li><li><mark>程序设计（指针）</li><li><mark>【程序设计（结构体）】</li></ol><h1>2022.10.19</h1><ol><li><mark>核酸</li><li><mark>英语单词 50 new &amp;&amp; xx old</li><li>线性代数 [4]</li><li><mark>微积分 [4]</li><li>心理课</li><li><mark>程序设计（mococ）</li></ol><h1>2022.10.20</h1><ol><li><mark>核酸</li><li><mark>英语单词 50 new &amp;&amp; xx old</li><li>线性代数 [4]</li><li><mark>微积分 [4]</li><li>心理课</li><li>数据结构与算法</li><li><mark>程序设计（mooc）</li></ol><h1>2022.10.21</h1><ol><li>核酸</li><li>英语单词 50 new &amp;&amp; xx old</li><li>线性代数 [4]</li><li><mark>微积分 [4]</li><li>心理课</li><li>数据结构与算法</li><li><mark>程序设计（mooc）</li></ol><h1>2022.10.22</h1><ol><li>核酸</li><li>英语单词 50 new &amp;&amp; xx old</li><li>线性代数 [4]</li><li>微积分 [4]</li><li>心理课</li><li>数据结构与算法</li><li>程序设计（mooc）</li><li>30s社团视频</li><li>心理实验被试</li></ol>]]></content>
+        <content type="html"><![CDATA[<h1>2022.10.12</h1><ol><li><mark>核酸</li><li><mark>英语单词 50 new &amp;&amp; xx old</li><li>线性代数</li><li>微积分</li><li><mark>阅读白皮书</li><li>专业作业 04 end</li><li><mark>心理课</li><li>（数据结构与算法）</li></ol><h1>2022.10.13</h1><ol><li><mark>核酸</li><li><mark>核酸志愿者</li><li><mark>英语单词 50 new &amp;&amp; xx old</li><li><mark>写完白皮书</li><li>线性代数</li><li>微积分</li><li><mark>心理课</li></ol><h1>2022.10.14</h1><ol><li><mark>核酸</li><li><mark>核酸志愿者</li><li>英语单词 50 new &amp;&amp; xx old</li><li>线性代数 [4]</li><li>微积分 [4]</li><li><mark>心理课</li><li><mark>书信志愿</li></ol><h1>2022.10.15</h1><ol><li><mark>核酸</li><li><mark>英语单词 50 new &amp;&amp; xx old</li><li><mark>线性代数 [4]</li><li>微积分 [4]</li><li><mark>心理课</li></ol><h1>2022.10.15</h1><ol><li><mark>核酸</li><li><mark>英语单词 50 new &amp;&amp; xx old</li><li><mark>线性代数 [4]</li><li>微积分 [4]</li><li><mark>心理课</li></ol><h1>2022.10.16</h1><ol><li><mark>核酸</li><li><mark>英语单词 50 new &amp;&amp; xx old</li><li><mark>线性代数 [4]</li><li>微积分 [4]</li><li>心理课</li></ol><h1>2022.10.17</h1><ol><li><mark>核酸</li><li><mark>英语单词 50 new &amp;&amp; xx old</li><li><mark>线性代数 [4]</li><li>微积分 [4]</li><li>心理课</li><li><mark>【程序设计（指针）】</li></ol><h1>2022.10.18</h1><ol><li><mark>核酸</li><li>英语单词 50 new &amp;&amp; xx old</li><li>线性代数 [4]</li><li><mark>微积分 [4]</li><li>心理课</li><li><mark>程序设计（指针）</li><li><mark>【程序设计（结构体）】</li></ol><h1>2022.10.19</h1><ol><li><mark>核酸</li><li><mark>英语单词 50 new &amp;&amp; xx old</li><li>线性代数 [4]</li><li><mark>微积分 [4]</li><li>心理课</li><li><mark>程序设计（mococ）</li></ol><h1>2022.10.20</h1><ol><li><mark>核酸</li><li><mark>英语单词 50 new &amp;&amp; xx old</li><li>线性代数 [4]</li><li><mark>微积分 [4]</li><li>心理课</li><li>数据结构与算法</li><li><mark>程序设计（mooc）</li></ol><h1>2022.10.21</h1><ol><li><mark>核酸</li><li><mark>英语单词 50 new &amp;&amp; xx old</li><li>线性代数 [4]</li><li><mark>微积分 [4]</li><li>心理课</li><li>数据结构与算法</li><li><mark>程序设计（mooc）</li></ol><h1>2022.10.22</h1><ol><li>核酸</li><li>英语单词 50 new &amp;&amp; xx old</li><li>线性代数 [4]</li><li>微积分 [4]</li><li>心理课</li><li>数据结构与算法</li><li>程序设计（mooc）</li><li>30s社团视频</li><li><mark>心理实验被试</li></ol><h1>2022.10.23</h1><ol><li><amrk>核酸</li><li><mark>英语单词 50 new &amp;&amp; xx old</li><li>线性代数 [4]</li><li><mark>微积分 [4]</li><li>心理课</li><li>数据结构与算法</li><li><mark>程序设计（mooc）</li></ol>]]></content>
       
     </entry>
     
